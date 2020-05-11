@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LatihanHosting/static/css/main.d1b05096.chunk.css",
+    "main.js": "/LatihanHosting/static/js/main.517d3134.chunk.js",
+    "main.js.map": "/LatihanHosting/static/js/main.517d3134.chunk.js.map",
+    "runtime-main.js": "/LatihanHosting/static/js/runtime-main.ce567bf3.js",
+    "runtime-main.js.map": "/LatihanHosting/static/js/runtime-main.ce567bf3.js.map",
+    "static/js/2.af540e77.chunk.js": "/LatihanHosting/static/js/2.af540e77.chunk.js",
+    "static/js/2.af540e77.chunk.js.map": "/LatihanHosting/static/js/2.af540e77.chunk.js.map",
+    "index.html": "/LatihanHosting/index.html",
+    "precache-manifest.ecc6c5a75c383e329a320e9da76bf8d8.js": "/LatihanHosting/precache-manifest.ecc6c5a75c383e329a320e9da76bf8d8.js",
+    "service-worker.js": "/LatihanHosting/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/LatihanHosting/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.af540e77.chunk.js.LICENSE.txt": "/LatihanHosting/static/js/2.af540e77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce567bf3.js",
+    "static/js/2.af540e77.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.517d3134.chunk.js"
+  ]
+}
